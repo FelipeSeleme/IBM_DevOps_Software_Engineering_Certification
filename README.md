@@ -151,7 +151,7 @@ Feel free to explore the code, workflows, and deployment configurations in this 
 
 ## Author
 
-Felipe Seleme - DevOps Engineer and Software Developer
+Felipe Seleme Ribeiro - DevOps Engineer and Software Developer
 
 ## License
 
